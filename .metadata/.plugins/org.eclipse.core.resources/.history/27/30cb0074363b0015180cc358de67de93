@@ -1,0 +1,10 @@
+package Testingbasicjava_sq1;
+
+public class TextEx3_while_dowhile_factorial {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

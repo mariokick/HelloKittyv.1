@@ -1,0 +1,17 @@
+package test;
+
+public class test2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	     
+
+	        for (int i = 0; i < 8; i++) { // ควบคุมจำนวนบรรทัด
+	            for (int j = 0; j <= i; j++) { // ควบคุมจำนวน *
+	                System.out.print("*"); // วาดรูป *
+	            }
+	            System.out.println(); // เมื่อจบแต่ละบรรทัดขึ้นบรรทัดใหม่
+	        }
+	        System.out.println(); // เมื่อวาดเสร็จทำการขึ้นบรรทัดใหม่
+	    }
+	}

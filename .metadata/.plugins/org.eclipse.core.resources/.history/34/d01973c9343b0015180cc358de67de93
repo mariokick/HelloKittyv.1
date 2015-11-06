@@ -1,0 +1,15 @@
+package Testingbasicjava_sq1;
+
+public class TestEx2_for_factorial {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+long n =  5 ;
+long sum = 0  ;
+for(long i=n;i>=1;i--){
+	sum *=i;
+}
+System.out.println("Factorial = "+sum);
+	}
+
+}
